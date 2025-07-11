@@ -3,7 +3,7 @@
 
 ---
 
-🎓 I recently graduated with a degree in **Mathematics** — and now I’m applying my love for numbers to real-world tech problems.  
+🎓 I recently graduated with a degree in **Mathematics** — and now I’m applying my love for logics to real-world tech problems.  
 🚀 I'm passionate about making data useful through **analytics**, **machine learning**, and **smart visualizations**.  
 📌 I'm actively looking for opportunities as a:
 - ⚙️ **Machine Learning Engineer**  
@@ -19,7 +19,7 @@
 
 ### 🔧 Skills
 - **Languages**: Python, SQL, R  
-- **Libraries/Frameworks**: pandas, NumPy, scikit-learn, seaborn, matplotlib, Streamlit, NLTK, Folium  
+- **Libraries/Frameworks**: pandas, NumPy, scikit-learn, seaborn, matplotlib, Streamlit, NLTK, Folium, Flask, Tensorflow
 - **Tools**: Tableau, Google Colab, Jupyter Notebook, Git, Excel, VSCode
 - **Core Concepts**: Data cleaning, EDA, NLP, classification, clustering, dashboard development, geospatial analysis
 
