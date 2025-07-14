@@ -1,5 +1,5 @@
 ### Hey, I'm Ihza 👋  
-*A Math graduate exploring the world of Machine Learning, Data Analytics, and Business Intelligence*
+*A Math graduate exploring the world of Machine Learning, and Data Analytics*
 
 ---
 
@@ -7,13 +7,13 @@
 🚀 I'm passionate about making data useful through **analytics**, **machine learning**, and **smart visualizations**.  
 📌 I'm actively looking for opportunities as a:
 - ⚙️ **Machine Learning Engineer**  
-- 📊 **Data Analyst**  
-- 🧠 **Business Intelligence Analyst**
+- 📊 **Data Analyst**
 
 🧪 Past Projects:
 - **Movies Recommendation System**: Built a personalized recommendation model as the ML Engineer in a full-stack capstone project  
 - **Sentiment Analysis on Agoda Reviews**: Performed NLP on app reviews to extract insights and categorize sentiments  
 - **Data Analysis with Python (E-commerce Dashboard)**: Developed an interactive dashboard using Python & Streamlit to explore customer behavior, product trends, payment methods, and geospatial heatmaps with Folium
+- etc.
 
 ---
 
