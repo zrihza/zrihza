@@ -3,7 +3,7 @@
 
 ---
 
-🎓 I recently graduated with a degree in **Mathematics** — and now I’m applying my love for logics to real-world tech problems.  
+🎓 Math Graduate — I’m applying my love for logics to real-world tech problems.  
 🚀 I'm passionate about making data useful through **analytics**, **machine learning**, and **smart visualizations**.  
 📌 I'm actively looking for opportunities as a:
 - ⚙️ **Machine Learning Engineer**  
